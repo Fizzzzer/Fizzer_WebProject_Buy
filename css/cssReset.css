@@ -96,7 +96,9 @@ sup {
 sub {
     vertical-align:text-bottom;
 }
-input,
+input{
+    border: none;
+}
 textarea,
 select {
     font-family:inherit;
