@@ -52,10 +52,12 @@ a{
 }
 
 .logo_r_serach{
-    width: 418px;
+    width: 408px;
     height: 28px;
     border: 1px solid #c9c9c9;
-    color: #999999;
+    padding-left:8px;
+
+    color: #333333;
 }
 .logo_r_btn{
     width: 100px;
